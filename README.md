@@ -1,6 +1,7 @@
 
 # GPT-2 Implementation
 This repo attempts to replicate GPT2 from scratch. I use charecter level encoding over BPR to keep things simple. 
+The model is trained over input.txt which contain work of Shakespeer. 
 
 # Add train and validation loss section
 train_loss = [4.2849, 2.0147, 1.6062, 1.4424, 1.3445, 1.2808, 1.2310, 1.1866, 1.1474, 1.1092]
